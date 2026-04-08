@@ -35,7 +35,7 @@ const Contact = () => {
       return;
     }
 
-    const res = await fetch("https://formsubmit.co/ajax/sales@nexadew.com", {
+    const res = await fetch("https://formsubmit.co/ajax/dewnexa@gmail.com", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
